@@ -1,0 +1,16 @@
+string = "  Anandha kumar  "
+
+print string.lower()
+print string.upper()
+print string.capitalize()
+print string.find('a')
+print string.rfind('a')
+print string.index('a')
+print string.rindex('a')
+print string.count('a')
+print string.split('a')
+print string.join('kk')
+print string.strip()
+print string.lstrip()
+print string.rstrip()
+print string.swapcase()
